@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc# Ignore database and data files
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/backups/*
+data/attachments/*
+data/license.key
+
+# Ignore build and cache
+__pycache__/
+build/
+dist/
+*.spec
+*.log

@@ -1,0 +1,6 @@
+SQLAlchemy>=2.0.30
+openpyxl>=3.1.2
+reportlab>=4.1.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+pyinstaller>=6.6.0
